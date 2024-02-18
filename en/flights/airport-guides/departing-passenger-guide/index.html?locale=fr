@@ -2421,7 +2421,7 @@
 
 
     <script src="https://www.istairport.com/umbraco/lib/jquery/jquery.min.js"></script>
-    <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.lib.min.js?ver=393929307"></script>
+    <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.lib.min.js"></script>
  
    
        <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.app.min.js?ver=1318191791"></script>

@@ -1570,7 +1570,7 @@
 
 
     <script src="https://www.istairport.com/umbraco/lib/jquery/jquery.min.js"></script>
-    <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.lib.min.js?ver=760623742"></script>
+    <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.lib.min.js"></script>
  
    
        <script src="https://www.istairport.com/assets/scripts/IGA-Istairport.app.min.js?ver=2134657198"></script>
