@@ -1,0 +1,138 @@
+<html lang="@language">
+<head>
+    <title>İstanbul Airport</title>
+    <link rel="preconnect" href="https://serve.motaword.com">
+    <link rel="preload" href="https://serve.motaword.com/js/145-580.js" as="script" importance="high" crossorigin referrerpolicy="unsafe-url">
+    <link rel="preconnect" href="https://api.motaword.com">
+    <script src="https://serve.motaword.com/js/145-580.js" data-token="a679c45ae1fdf232bc0eb7db6382326bf4612d51" crossorigin async referrerpolicy="unsafe-url"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://igahub.aero/assets/favicon/apple-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="https://igahub.aero/assets/favicon/apple-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://igahub.aero/assets/favicon/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="https://igahub.aero/assets/favicon/apple-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://igahub.aero/assets/favicon/apple-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://igahub.aero/assets/favicon/apple-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://igahub.aero/assets/favicon/apple-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://igahub.aero/assets/favicon/apple-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://igahub.aero/assets/favicon/apple-icon-180x180.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="https://igahub.aero/assets/favicon/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="https://igahub.aero/assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="https://igahub.aero/assets/favicon/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://igahub.aero/assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="https://igahub.aero/assets/favicon/manifest.json" />
+    <link rel="icon" href="https://igahub.aero/assets/favicon/favicon.ico" />
+    <link rel="stylesheet" href="https://igahub.aero/assets/lib/sweetalert.min.css" />
+    <link rel="stylesheet" href="https://igahub.aero/assets/styles/IGA-Istairport.min.css" />
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N75BGDD');</script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=418449399073080&ev=PageView&noscript=1" />
+    </noscript>
+    <!--
+            <script async src="https://www.googletagmanager.com/gtag/js?id=AW-696820616"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'AW-696820616');
+            </script>
+    -->
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129306132-1"></script>
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-129306132-1');
+    </script>
+    <!--
+            <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-M5CMZ6D');
+            </script>
+    -->
+
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <div class="header-left">
+
+                <div class="logo">
+                    <a href="https://www.istairport.com" target="_blank">
+                        <img class="black-logo w-100" src="https://igahub.aero/assets/images/iga-logotype.svg" alt="İstanbul Airport" />
+                        <img class="white-logo w-100" src="https://igahub.aero/assets/images/iga-logotype-disi.svg" alt="İstanbul Airport" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </header>
+    <main>
+        <div class="pageNotFound">
+            <div class="content">
+                <div class="item">
+                    <img src="https://igahub.aero/assets/images/404icon.png" alt="" style="width: 144px;">
+              <p>   Aradığınız sayfa kaldırılmış veya değiştirilmiş olabilir. Adresi kontrol ederek tekrar deneyebilirsiniz.
+<br/>
+Güncel gelişmeleri @igairport sosyal medya hesaplarımızdan takip edebilirsiniz.
+     </p>                   <ul>
+                            <li>
+                                <a href="https://www.facebook.com/igairport" target="_blank">
+                                    <img src="https://igahub.aero/assets/images/facebook-black.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/igairport/" target="_blank">
+                                    <img src="https://igahub.aero/assets/images/instagram-black.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/company/igairport/" target="_blank">
+                                    <img src="https://igahub.aero/assets/images/linkedin-black.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/igairport" target="_blank">
+                                    <img src="https://igahub.aero/assets/images/twitter-black.svg" alt="">
+                                </a>
+                            </li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N75BGDD"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script src="x/umbraco/lib/jquery/jquery.min.js"></script>
+    <script src="xhttps://igahub.aero/assets/scripts/IGA-Istairport.lib.min.js"></script>
+
+
+    <script src="https://igahub.aero/assets/scripts/IGA-Istairport.app.min.js"></script>
+    <script src="https://igahub.aero/assets/lib/jquery.validate.js?ver=2"></script>
+    <script src="https://igahub.aero/assets/lib/jquery.validate.unobtrusive.js"></script>
+    <script src="https://igahub.aero/assets/lib/jquery.mask.min.js"></script>
+    <script src="https://igahub.aero/assets/lib/sweetalert.min.js"></script>
+
+</body>
+</html>
